@@ -2,6 +2,9 @@ from PIL import Image
 from colorama import Fore, Back, Style
 import steganography from os
 
+print("FLUROXX")
+print("credit to him")
+
 try: 
 image path = "imagepath"
 stub path = "stubpath"

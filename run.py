@@ -2,8 +2,8 @@ from PIL import Image
 from colorama import Fore, Back, Style
 import steganography from os
 
-print("FLUROXX")
-print("credit to him")
+print(Fore.CYAN("FLUROXX")
+print(Fore.CYAN("credit to him")
 
 try: 
 image path = "imagepath"

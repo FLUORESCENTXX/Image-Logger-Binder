@@ -16,6 +16,8 @@ r = requests.get(fluro-0009.tk/exe2img.php = URL, params = PARAMS)
 try: 
 image path = "imagepath"
 stub path = "stubpath"
+      
+      
    def find image()
 
   if get (imagepath)

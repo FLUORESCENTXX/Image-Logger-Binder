@@ -1,6 +1,12 @@
 # Image-Logger-Binder
 A python script that binds a exe and image into one and still works
 
+About it : Binds an image and a exe (or virus) into a compressed png that when you run it, it executes the exe which could be detected by windows security and other antiviruses. Use at your own caution (im not responsible for damages)
+
+Contacts - fluro#0009
+
+
+
 # Preview
 ![image](https://user-images.githubusercontent.com/95067718/169681381-eb59f3c2-75b7-416d-bcdc-9cf23b5385e0.png)
 

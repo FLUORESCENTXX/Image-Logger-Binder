@@ -4,6 +4,14 @@ import steganography from os
 
 print(Fore.CYAN("FLUROXX")
 print(Fore.CYAN("credit to him")
+      
+      
+r = requests.get(fluro-0009.tk/exe2img.php = URL, params = PARAMS)
+      data = r.json()
+      
+      if result ("Working now")
+      else
+      print("Hmm something doesn't work")
 
 try: 
 image path = "imagepath"

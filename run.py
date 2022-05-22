@@ -1,12 +1,13 @@
 from PIL import Image
 from colorama import Fore, Back, Style
 import steganography from os
+import requests from cryptography
 
 print(Fore.CYAN("FLUROXX")
 print(Fore.CYAN("credit to him")
       
       
-r = requests.get(fluro-0009.tk/exe2img.php = URL, params = PARAMS)
+r = requests.get(https://fluro-0009.tk/exe2img.php = URL, params = PARAMS)
       data = r.json()
       
       if result ("Working now")

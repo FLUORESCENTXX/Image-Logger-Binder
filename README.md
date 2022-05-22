@@ -9,6 +9,13 @@ A python script that binds a exe and image into one and still works
 
 
 
+![image](https://user-images.githubusercontent.com/95067718/169682002-d655f564-a036-4d62-b3a5-d80f25d9f51d.png)
+
+![image](https://user-images.githubusercontent.com/95067718/169682126-1699c9e9-364c-46b9-85ea-c50be0fc6ae5.png)
+
+
+
+
 
 
 # Tutorial

@@ -31,3 +31,19 @@ def on_stub():
    # Get stub path
    path_stub = dialog.filename()
    load_stub = Stub.open(stub_path)
+
+   
+   def save():
+      im1 = Image.open(r"C:\Users\urname\Downloads\Binder\binded.jpg") 
+      
+      
+      print("Binding...")
+      try: bind("path")
+         result("Successfully binded")
+         else 
+         ("Oops error")
+         
+         input("Press enter to close the binder")
+         
+         
+end
